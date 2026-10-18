@@ -2,6 +2,6 @@
 
 @layer components {
     .area{
-        @apply bg-black text-center text-2xl text-white font-semibold border-8 border-[#0c0c0c] cursor-pointer;
+        @apply size-20 bg-black text-center text-5xl text-white font-semibold border-8 border-[#0c0c0c] cursor-pointer md:size-25 md:text-7xl;
     }
 }
