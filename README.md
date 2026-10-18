@@ -2,7 +2,7 @@
 
 Jogo da velha feito com HTML, CSS e JavaScript puros. Contém botão para zerar o tabuleiro e iniciar uma nova partida e um para reiniciar o jogo.
 
-![Prévia do projeto](/images/preview.png)
+![Prévia do projeto](assets/images/preview.png)
 
 🔗 **Demo:** [https://eduardo2382.github.io/tictactoe](https://eduardo2382.github.io/tictactoe)
 
