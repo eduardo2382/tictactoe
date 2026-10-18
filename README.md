@@ -46,7 +46,7 @@ Depois, abra o arquivo `index.html` no navegador (dois cliques nele já funciona
 ## 🗺️ Próximos passos
 
 - [x] Melhorar a responsividade para telas menores
-- [ ] Refatorar a estilização utilizando **Tailwind CSS**
+- [x] Refatorar a estilização utilizando **Tailwind CSS**
 - [ ] Campo para inserir o nome dos jogadores
 - [ ] Tabuleiros maiores (4x4, 5x5)
 - [ ] Placar salvo com localStorage, que persiste ao recarregar a página
