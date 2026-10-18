@@ -38,9 +38,10 @@ Depois, abra o arquivo `index.html` no navegador (dois cliques nele já funciona
 
 ```
 ├── index.html
-├── style.css
-├── script.js
-└── images/preview.png
+├── src/input.css       # arquivo de entrada do Tailwind
+├── dist/output.css     # CSS gerado (usado pelo index.html)
+├── js/script.js
+└── assets/images/preview.png
 ```
 
 ## 🗺️ Próximos passos
