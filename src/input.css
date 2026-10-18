@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@layer components {
+    .area{
+        @apply bg-black text-center text-2xl text-white font-semibold border-8 border-[#0c0c0c] cursor-pointer;
+    }
+}
