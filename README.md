@@ -1,4 +1,4 @@
-# ⏱️ Jogo da Velha
+# #️⃣ Jogo da Velha
 
 Jogo da velha feito com HTML, CSS e JavaScript puros. Contém botão para zerar o tabuleiro e iniciar uma nova partida e um para reiniciar o jogo.
 
